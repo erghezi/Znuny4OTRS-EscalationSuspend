@@ -1,6 +1,6 @@
 ![Znuny logo](http://znuny.com/assets/logo_small.png)
 
-Znuny4OTRS - EscalationSuspend
+Znuny4OTRS - EscalationSuspend for OTRS 4
 ==============================
 
 **Feature List**
@@ -8,13 +8,7 @@ This package suspends the escalation when the ticket is in any of the states def
 
 **Prerequisites**
 
-- Znuny4OTRS-Repo
-
-- OTRS 3.1
-
-- OTRS 3.2
-
-- OTRS 3.3
+- OTRS 4
 
 **Installation**
 
@@ -25,17 +19,5 @@ Download the package and install it via admin interface -> package manager or us
 
 You need to restart cron after installing this feature!
 
-**Download**
-
-For download see [http://znuny.com/en/#!/addons](http://znuny.com/en/#!/addons)
-
-**Commercial Support**
-
-For this extension and for OTRS in general visit [http://znuny.com](http://znuny.com). Looking forward to hear from you!
-
 Enjoy!
-
- Your Znuny Team!
-
- [http://znuny.com](http://znuny.com)
 
