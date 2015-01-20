@@ -2,6 +2,7 @@
 # Kernel/System/Ticket/Znuny4OTRSEscalationSuspend.pm - custom ticket changes
 # Copyright (C) 2014 Znuny GmbH, http://znuny.com/
 # --
+# Ported by Hamed to OTRS 4
 
 package Kernel::System::Ticket::Znuny4OTRSEscalationSuspend;
 
