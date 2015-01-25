@@ -627,7 +627,7 @@ use warnings;
 
  # get database object
     my $DBObject = $Kernel::OM->Get('Kernel::System::DB');
-        return if !$Self->{DBObject}->Prepare(
+        return if !$DBObject->Prepare(
             SQL => "
                 SELECT MAX(create_time)
                 FROM ticket_history
